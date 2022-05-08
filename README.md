@@ -7,8 +7,8 @@
 
 ### System setup
 ```shell
-$ git clone https://github.com/Infineon/hackathon
-$ cd hackathon
+$ git clone https://github.com/abhishekg9675/Infineon_Team_4_Submission
+$ cd Infineon_Team_4_Submission
 $ pip install -r requirements.txt
 
 ##########For Info###################
@@ -35,6 +35,6 @@ keras-preprocessing==1.1.2
 
 ### Code run
 ```
-# run the follwing file
+# run the following file
 team4_submission.ipynb
 ```
