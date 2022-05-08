@@ -8,7 +8,7 @@
 ### System setup
 ```shell
 $ git clone https://github.com/abhishekg9675/Infineon_Team_4_Submission
-$ cd Infineon_Team_4_Submission
+$ cd Infineon_Team_4_Submission/code/
 $ pip install -r requirements.txt
 
 ##########For Info###################
